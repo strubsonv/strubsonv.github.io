@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://strubsonv.github.io/strubsonv.strubsonv
+Sitemap: https://strubsonv.github.io/app/strubsonv.strubsonv
+Sitemap: https://strubsonv.github.io/assets/strubsonv.strubsonv
+Sitemap: https://strubsonv.github.io/css/strubsonv.strubsonv
+Sitemap: https://strubsonv.github.io/includes/strubsonv.strubsonv
+Sitemap: https://strubsonv.github.io/item/strubsonv.strubsonv
+Sitemap: https://strubsonv.github.io/src/strubsonv.strubsonv
